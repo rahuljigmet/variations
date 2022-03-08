@@ -1,0 +1,27 @@
+p {
+    border: 1px solid red;
+    color: white;
+}
+
+.spaced-out {
+    color: blue;
+}
+
+.highlight {
+    text-transform: uppercase
+}
+
+.even-para {
+    background-color: gray;
+    
+    padding-left: 60%;
+}
+
+
+
+.offset1 {
+
+    position: relative;
+    top: 10px;
+
+}

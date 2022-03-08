@@ -1,7 +1,7 @@
-p {
-    border: 1px solid red;
+/*  {
+   border: 1px solid rgb(201, 171, 171);
     color: white;
-}
+}*/
 
 .spaced-out {
     color: blue;
@@ -24,6 +24,25 @@ p {
 .offset1 {
 
     position: relative;
-    top: 10px;
+    top: 15px;
 
+}
+.Robert-Frost{
+
+    position: absolute;
+    top: 500px;
+    z-index: -1;
+}
+.firstpara{
+    position: relative;
+    top: 100px;
+
+}
+.secondpara{
+    position: relative;
+    top: 100px;
+}
+.lastpara{
+    position: relative;
+    top: -200px;
 }
