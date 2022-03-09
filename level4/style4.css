@@ -1,7 +1,7 @@
 h2{
     font-family: monospace;
 }
- body {
+body {
         background: linear-gradient(
           to right, 
           #ff9e2c 0%, 
@@ -11,7 +11,8 @@ h2{
         );
       }
       
+     
       .title{
-        font-family: cursive;
+        font-family: 'Shadows Into Light', cursive;
       }
 
