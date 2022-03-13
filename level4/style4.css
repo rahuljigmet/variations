@@ -14,5 +14,50 @@ body {
      
       .title{
         font-family: 'Shadows Into Light', cursive;
+        border: solid;
+        border-color: #df7272;
+        border-width: 10px;
+        border-style: double;
       }
 
+.firstpara{
+    font-family:'Dancing Script', cursive;;
+    font-size: large;
+    }
+
+.secpara{
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.thirdpara{
+  font-family:'Dancing Script', cursive;;
+  font-size: large;
+  }
+
+  .fourthpara{
+    font-family: 'Alfa Slab One', cursive;
+  }
+  .highlight{
+    border: solid;
+border-color: #df7272;
+border-width: 10px;
+border-style: dashed;
+  }
+  
+  p{
+    letter-spacing: 150px;
+
+  }
+
+  .overlap{
+    position: absolute;
+    top: 400px;
+    letter-spacing: 50px;
+    
+  }
+  .overlapb{
+    position: absolute;
+    top: 800px;
+    letter-spacing: 50px;
+
+  }

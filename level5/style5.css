@@ -1,12 +1,63 @@
-body{
-    background-image: url(https://live.staticflickr.com/4557/38950337081_4749b7d58d_b.jpg);
+h2{
+    font-family: monospace;
 }
-.p1{
-    animation: linear;
+body {
+        background: linear-gradient(
+          to right, 
+          #ff9e2c 0%, 
+          #ff9e2c 50%, 
+          #b6701e 50%, 
+          #b6701e 100%
+        );
+      }
+      
+     
+      .title{
+        font-family: 'Shadows Into Light', cursive;
+        border: solid;
+        border-color: #df7272;
+        border-width: 10px;
+        border-style: double;
+      }
+
+.firstpara{
+    font-family:'Dancing Script', cursive;;
+    font-size: large;
+    }
+
+.secpara{
+  font-family: 'Alfa Slab One', cursive;
 }
-.newpoem{
-    color: azure;
-    position: relative;
-    top: 200px ;
-    padding-left: 60%;
-}
+
+.thirdpara{
+  font-family:'Dancing Script', cursive;;
+  font-size: large;
+  }
+
+  .fourthpara{
+    font-family: 'Alfa Slab One', cursive;
+  }
+  .highlight{
+    border: solid;
+border-color: #df7272;
+border-width: 10px;
+border-style: dashed;
+  }
+  
+  p{
+    letter-spacing: 150px;
+
+  }
+
+  .overlap{
+    position: absolute;
+    top: 400px;
+    letter-spacing: 50px;
+    
+  }
+  .overlapb{
+    position: absolute;
+    top: 800px;
+    letter-spacing: 50px;
+
+  }
